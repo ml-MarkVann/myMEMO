@@ -1,7 +1,5 @@
 # Summary
 
-* [JS](chapter1.md)
+* [Introduction](README.md)
 * [CSS](css.md)
-
-
 
