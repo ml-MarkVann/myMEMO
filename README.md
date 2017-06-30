@@ -1,3 +1,4 @@
-# My Awesome Book
+# My Memo
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+就是個小筆記本而已啦！
+
